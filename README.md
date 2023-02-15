@@ -1,6 +1,6 @@
 # Ignite Shop
 
-**Projeto desenvolvido com nextjs e integração com Stripe para checkout** 
+**Projeto desenvolvido com nextjs e integração com Stripe para checkout.** 
 O projeto consegue obter dados da api do stripe, porém para isso são necessários algumas variáveis.
 
 
